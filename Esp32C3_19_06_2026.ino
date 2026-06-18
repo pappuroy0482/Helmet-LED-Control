@@ -889,12 +889,12 @@ h2 {
         
         <div class='card middle-green' style='height: auto;'>
             <div style='display: flex; justify-content: space-between; width: 100%; align-items: center;'>
-                <h3>Helmet Led Eye</h3>
+                <h3>Helmet Led Del</h3>
                 <div id='b6' class='logo off' onclick='tg(6)'><img src='https://raw.githubusercontent.com/pappuroy0482/Helmet-LED-Control/refs/heads/main/Helmet%20LED%20button%20photo/HELMET%20LED%20EYE.png' alt='Eye'></div>
             </div>
             
             <div class="eye-pattern-container">
-                <label for="eyePatternSelect">Eye Led Pattern Mode</label>
+                <label for="eyePatternSelect">Del Led Pattern Mode</label>
                 <select id="eyePatternSelect" class="pattern-select" onchange="changeEyeStyle(this.value)">
                     <option value="1">Pattern 1: Triple Flash</option>
                     <option value="2">Pattern 2: Smooth Breathing</option>
